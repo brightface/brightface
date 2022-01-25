@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=610ksh&layout=compact&langs_count=8&theme=dracula)](https://github.com/brightface)
 
-![610ksh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=brightface)
+![brightface's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=brightface)
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=brightface" height="165">
