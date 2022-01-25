@@ -3,11 +3,6 @@
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=brightface">
 <img src="http://mazandi.herokuapp.com/api?handle=brightface&theme=warm"/>
 
-
-
-
-
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=brightface" height="165">
 Here are some ideas to get you started:
 
@@ -18,10 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
-![brightface's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=brightface)
-
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=brightface" height="165">
 - ⚡ Fun fact: ...
+
+
 
