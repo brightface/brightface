@@ -3,7 +3,7 @@
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=brightface">
 <img src="http://mazandi.herokuapp.com/api?handle=brightface&theme=warm"/>
 
-[![brightface's github stats](https://github-readme-stats.vercel.app/api?username=610ksh&show_icons=true&theme=dracula)](https://github.com/brightface)
+[![brightface's github stats](https://github-readme-stats.vercel.app/api?username=brightface&show_icons=true&theme=dracula)](https://github.com/brightface)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightface&layout=compact&langs_count=8&theme=dracula)](https://github.com/brightface)
 
