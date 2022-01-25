@@ -5,8 +5,6 @@
 
 [![brightface's github stats](https://github-readme-stats.vercel.app/api?username=brightface&show_icons=true&theme=dracula)](https://github.com/brightface)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightface&layout=compact&langs_count=8&theme=dracula)](https://github.com/brightface)
-
 ![brightface's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=brightface)
 
 
