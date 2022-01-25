@@ -4,11 +4,6 @@
 <img src="http://mazandi.herokuapp.com/api?handle=brightface&theme=warm"/>
 
 
-![brightface's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=brightface)
-
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=brightface" height="165">
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
